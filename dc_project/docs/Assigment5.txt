@@ -1,0 +1,30 @@
+=== CPU Examples ===
+
+1. Intel Core i5-8250U
+   - Year: 2017
+   - Fixed-point: ~12,000 MIPS
+   - Floating-point: ~50 GFLOPS (single precision)
+
+2. AMD Ryzen 5 5600X
+   - Year: 2020
+   - Integer MOPS: ~150,000 MOPS (estimated)
+   - Floating-point: ~140 GFLOPS (double precision)
+
+3. Apple M1 Chip
+   - Year: 2020
+   - Integer: ~300,000 MOPS (estimate)
+   - FP32: ~2.6 TFLOPS
+
+=== Supercomputer Examples ===
+
+1. Summit (USA, 2018)
+   - Peak: 200 PFLOPS (floating point)
+   - CPU + GPU architecture
+
+2. Fugaku (Japan, 2020)
+   - Peak: 442 PFLOPS (FP64)
+   - Fixed-point MOPS not typically published, but sustained ~0.4 exa-ops on AI tasks
+
+3. Frontier (USA, 2022)
+   - First exascale system: >1 EFLOPS (floating point)
+   - World's fastest as of 2023
